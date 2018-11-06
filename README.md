@@ -1,5 +1,5 @@
 # Dalitso Banda
 
-mit.edu/dbanda
+http://web.mit.edu/dbanda
 
 MIT '18
